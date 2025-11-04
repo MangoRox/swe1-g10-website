@@ -4,6 +4,7 @@
 * Terminal for accessing VitePress via its command line interface (CLI).
 * Text Editor with Markdown syntax support.
 * [VSCode](https://code.visualstudio.com/docs/setup/setup-overview) is recommended, along with the official Vue extension.
+
 After moving to the root directory and installing prereqs:
 ```sh
 $ pnpm install
