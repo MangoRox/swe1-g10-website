@@ -32,4 +32,6 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/vuejs/vitepress" }, // change this later
     ],
   },
+  outDir: "../public",
+  base: "/swe1-g10-website/",
 });
