@@ -12,7 +12,7 @@ hero:
 
   "
   image:
-    src: molereal.png # <img src="mole.png">
+    src: ./molereal.png # <img src="mole.png">
   actions:
     - theme: brand
       text: Install Guide
