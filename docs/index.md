@@ -1,4 +1,27 @@
-# Markdown Extension Examples
+---
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
+
+hero:
+  name: "Mole Game"
+  tagline: A game where mole
+  image:
+    src: mole.png # <img src="mole.png">
+  actions:
+    - theme: brand
+      text: Markdown Examples
+      link: /markdown-examples
+
+---
+
+<!-- # features:
+#   - title: Feature A
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature B
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature C
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit -->
+<!-- # Markdown Extension Examples
 
 This page demonstrates some of the built-in markdown extensions provided by VitePress.
 
@@ -82,4 +105,4 @@ This is a details block.
 
 ## More
 
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
+Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown). -->

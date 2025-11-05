@@ -8,19 +8,22 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Details", link: "/details/background" },
+      { text: "Download", link: "/download/" },
+      { text: "About", link: "/about/background" },
+
     ],
 
     sidebar: {
-      "/details/": [
+      "/about/": [
         {
-          text: "Project Details",
+          text: "",
+          base: "/about/",
           items: [
             {
               items: [
-                { text: "Background", link: "/details/background" },
-                { text: "Motivation", link: "/details/motivation" },
-                { text: "Authors",    link: "/details/people"}
+                { text: "Background", link: "/background" },
+                { text: "Motivation", link: "/motivation" },
+                { text: "Authors",    link: "/people"}
               ],
             },
           ],
