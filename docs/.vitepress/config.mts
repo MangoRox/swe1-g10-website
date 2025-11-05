@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "SWE Group 10 Project",
-  description: "A VitePress Site",
+  description: "A website for a math mole-whacking game",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
