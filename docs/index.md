@@ -4,13 +4,20 @@ layout: home
 
 hero:
   name: "Mole Game"
-  tagline: A game where mole
+  text: 
+  tagline: "
+  
+  A game where you whack moles\nby solving math problems
+
+
+  "
   image:
-    src: mole.png # <img src="mole.png">
+    src: molereal.png # <img src="mole.png">
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Install Guide
+      link: /download
+  
 
 ---
 
