@@ -12,13 +12,13 @@ hero:
 
   "
   image:
-    src: https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/molereal.png # use raw github link because it doesn't render on pages with just moleereal.png...
+    src: https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/molereal.png # use raw github link because it doesn't render on pages with just moleereal.png...
   actions:
     - theme: brand
       text: Install Guide
       link: /download
   
-
+  description: Homepage
 ---
 
 <!-- # features:

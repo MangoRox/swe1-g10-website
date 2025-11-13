@@ -3,48 +3,43 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://lavalamp.com/wp-content/uploads/2016/07/placeholder-1-1.png',
-    name: 'Doe',
-    title: 'Creator',
+    avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/GJ.png',
+    name: 'GJ Burlingame',
+    title: 'Team Lead',
     links: [
-      { icon: 'github', link: 'https://google.com' },
-      { icon: 'linkedin', link: 'https://google.com' }
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/gj-burlingame/' }
     ]
   },
   {
-    avatar: 'https://lavalamp.com/wp-content/uploads/2016/07/placeholder-1-1.png',
-    name: 'Doe',
-    title: 'Creator',
+    avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/TN.jpg/,
+    name: 'Tommy Tran',
+    title: 'Developer',
     links: [
-      { icon: 'github', link: 'https://google.com' },
-      // { icon: 'twitter', link: 'https://google.com' }
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/tommy-tran-475492213/' },
     ]
   },
   {
-    avatar: 'https://lavalamp.com/wp-content/uploads/2016/07/placeholder-1-1.png',
-    name: 'Doe',
-    title: 'Creator',
+    avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/NR.jpg/',
+    name: 'Natalie Resendes',
+    title: 'Developer',
     links: [
-      { icon: 'github', link: 'https://google.com' },
-      // { icon: 'twitter', link: 'https://google.com' }
+      { icon: 'github', link: 'https://github.com/nat992/' },
     ]
   },
   {
-    avatar: 'https://lavalamp.com/wp-content/uploads/2016/07/placeholder-1-1.png',
-    name: 'Doe',
-    title: 'Creator',
+    avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/AS.jpg',
+    name: 'Abdullah Shaheed',
+    title: 'Developer',
     links: [
-      { icon: 'github', link: 'https://google.com' },
-      // { icon: 'twitter', link: 'https://google.com' }
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/ashaheed/' },
     ]
   },
   {
-    avatar: 'https://lavalamp.com/wp-content/uploads/2016/07/placeholder-1-1.png',
-    name: 'Doe',
-    title: 'Creator',
+    avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/SS.jpg',
+    name: 'Sukhdeep Singh',
+    title: 'Developer',
     links: [
-      { icon: 'github', link: 'https://google.com' },
-      // { icon: 'twitter', link: 'https://google.com' }
+      { icon: 'github', link: 'https://github.com/SukhdeepSinghToor7' },
     ]
   },
 ]
