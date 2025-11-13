@@ -10,7 +10,7 @@ export default defineConfig({
       { text: "Home", link: "/" },
       { text: "Download", link: "/download/" },
       { text: "About", link: "/about/authors" },
-
+      { text: "Documents & Diagrams" , link: "/documents" },
     ],
 
     sidebar: {
