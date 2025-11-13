@@ -2,7 +2,7 @@
 outline: false
 title: ~
 ---
-### SW Requirements Spec: [view](/placeholder.pdf)
+### SW Requirements Spec (SRS): [view](/placeholder.pdf)
 ### Requirements: [view](/g10requirements.pdf)
 ### Use Case Diagrams: [view](/g10usecasediagrams.pdf)
 ### Class Diagram: [view](/g10projectclassdiagram.pdf)
