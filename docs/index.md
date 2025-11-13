@@ -17,6 +17,12 @@ hero:
     - theme: brand
       text: Install Guide
       link: /download
+    - theme: brand
+      text: Download Latest
+      link: /placeholder
+    - theme: alt
+      text: View Prior Versions
+      link: /placeholder
   
   description: Homepage
 ---

@@ -9,8 +9,10 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Download", link: "/download/" },
-      { text: "About", link: "/about/authors" },
+      { text: "Demo", link: "/demo" },
       { text: "Documents & Diagrams" , link: "/documents" },
+      { text: "About", link: "/about/authors" },
+      { text: "Credits", link: "/credits" },
     ],
 
     sidebar: {
