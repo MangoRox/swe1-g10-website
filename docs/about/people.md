@@ -11,7 +11,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/TN.jpg/',
+    avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/TN.jpg',
     name: 'Tommy Tran',
     title: 'Developer',
     links: [
@@ -19,7 +19,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/NR.jpg/',
+    avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/NR.jpg',
     name: 'Natalie Resendes',
     title: 'Developer',
     links: [
