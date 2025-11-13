@@ -22,6 +22,7 @@ export default defineConfig({
           base: "/about/",
           items: [
             {
+              text: "About Us",
               items: [
                 { text: "Authors",    link: "/authors"},
               ],
