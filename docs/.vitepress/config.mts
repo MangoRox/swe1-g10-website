@@ -24,9 +24,15 @@ export default defineConfig({
             {
               items: [
                 { text: "Authors",    link: "/authors"},
-                { text: "The Motivation", link: "/motive" }
               ],
             },
+            {
+            text: "Project Info",
+            items: [
+              { text: "Description", link: "/description" },
+              { text: "Motivation", link: "/motive" }
+            ],
+            }
           ],
         },
       ],
