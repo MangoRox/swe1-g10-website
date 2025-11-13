@@ -40,7 +40,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" }, // change this later
+      { icon: "github", link: "https://github.com/GJ-Repo/SWEGroup10" }, // change this later
     ],
   },
   base: "/swe1-g10-website/",
