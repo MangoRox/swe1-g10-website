@@ -9,7 +9,7 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Download", link: "/download/" },
-      { text: "About", link: "/about/background" },
+      { text: "About", link: "/about/authors" },
 
     ],
 
@@ -21,9 +21,8 @@ export default defineConfig({
           items: [
             {
               items: [
-                { text: "Background", link: "/background" },
-                { text: "Motivation", link: "/motivation" },
-                { text: "Authors",    link: "/people"}
+                { text: "Authors",    link: "/authors"},
+                { text: "The Motivation", link: "/motive" }
               ],
             },
           ],

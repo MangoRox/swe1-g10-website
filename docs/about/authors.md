@@ -44,6 +44,9 @@ const members = [
   },
 ]
 </script>
+# Our Background
+
+We are a team of five students attending The University of Massachusetts Lowell. As a part of our software engineering class, we have been tasked to create an edutainment game, a video game with an educational component. We hope the game will cover math topics geared towards a middle school audience, but students of any age can find enjoyment. 
 
 # The Team
 
