@@ -9,7 +9,7 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Download", link: "/download" },
-      { text: "Demo", link: "/demo/index" },
+      { text: "Demo", link: "/demo" },
       { text: "Documents & Diagrams" , link: "/documents" },
       { text: "About", link: "/about/authors" },
       { text: "Credits", link: "/credits" },
