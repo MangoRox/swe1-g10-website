@@ -10,10 +10,10 @@ hero:
   actions:
     - theme: brand
       text: Install Guide
-      link: /download/#install-guide
+      link: /download
     - theme: brand
       text: Download Latest
-      link: /download/#latest-build
+      link: /download
     - theme: alt
       text: View Prototypes
       link: /documents
