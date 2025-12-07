@@ -1,7 +1,25 @@
 ---
 outline: false
+title: Credits
 ---
-### Built with VitePress
-This site's static pages were generated using VitePress. Learn more at [vitepress.dev](https://vitepress.dev/).
-### Diagrams made with Drawio
-Make your own diagrams at [drawio.com](https://www.drawio.com/).
+
+# Project Credits
+
+This project was built collaboratively as part of **Software Engineering I F25 – Group 10**.
+
+---
+
+## Tools & Frameworks Used
+
+### Static Site Engine
+<a class="VPButton medium brand" href="https://vitepress.dev/" target="_blank">VitePress Official Site</a>
+
+### Diagram Design
+<a class="VPButton medium alt" href="https://www.drawio.com/" target="_blank">Draw.io Website</a>
+
+---
+
+## Acknowledgements
+
+We thank our course instructors and project team for support throughout development.  
+This Game, Website and all Related Documents are the result of group effort, planning, documentation, design, and implementation.
