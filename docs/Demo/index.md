@@ -7,14 +7,14 @@ title: Demo & Prototype
 This page explains how the **Mole Game** demo works and what a player will see
 during a typical play session.
 
-<!--
+
 
 <div style="text-align:center;">
   <video src="/demo.mp4" controls autoplay muted loop style="width:90%; max-width:900px; border-radius:15px;"></video>
 </div>
 
 ## Gameplay Demo Video
--->
+
 
 ---
 
