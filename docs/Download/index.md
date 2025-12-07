@@ -6,8 +6,11 @@ title: Download & Install
 
 ## Latest Build {#latest-build}
 
+<!--
+
 <a class="VPButton medium brand" href="MoleGame-latest.zip" download>Download Mole Game (ZIP)</a>
 
+-->
 ---
 
 ## Installation Guide {#install-guide}
