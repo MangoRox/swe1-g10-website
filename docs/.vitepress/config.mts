@@ -13,7 +13,7 @@ export default defineConfig({
       { text: "Documents & Diagrams" , link: "/documents" },
       { text: "About", link: "/about/authors" },
       { text: "Credits", link: "/credits" },
-      { text: "Slides", link: "/MathMolesPresentation.pdf" },
+      { text: "Slides", link: "MathMolesPresentation.pdf" },
     ],
 
     sidebar: {
