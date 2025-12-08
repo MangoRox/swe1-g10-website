@@ -32,7 +32,7 @@ hero:
     Our Motivation
     </div>
     <div class="text-xl">
-    The motivation for this project is to create an engaging way for middle school students to strengthen their math skills. We aim to make learning more enjoyable. We introduce educational content through a “whack-a-mole” style game, where students must quickly solve math problems that appear on screen. Systems such as scores, streaks, and leaderboards are designed to encourage continuous improvement by rewarding accuracy, and speed. We believe that adding these competitive and customizable elements will help maintain students interest, making the game both enjoyable and educational.
+    The motivation for this project is to create an engaging way for middle school students to strengthen their math skills. We aim to make learning more enjoyable. We introduce educational content through a “whack-a-mole” style game, where students must quickly solve math problems that appear on screen. Systems such as scores, combos, and leaderboards are designed to encourage continuous improvement by rewarding accuracy, and speed. We believe that adding these competitive and customizable elements will help maintain students interest, making the game both enjoyable and educational.
     </div>
   </div>
 </div>
