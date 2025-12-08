@@ -45,7 +45,7 @@ without going through the full game.
 ## Controls
 
 - **Keyboard** – Enter correct answer to the equations inside the box.
-- **Pause** – Return to the main menu (if supported by the build).
+- **Pause** – Return to the main menu.
 
 
 ---
