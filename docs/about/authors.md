@@ -1,48 +1,49 @@
 <script setup>
-import { VPTeamMembers } from 'vitepress/theme'
+// import { VPTeamMembers } from 'vitepress/theme'
 
-const members = [
-  {
-    avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/GJ.png',
-    name: 'GJ Burlingame',
-    title: 'Team Lead',
-    links: [
-      { icon: 'linkedin', link: 'https://www.linkedin.com/in/gj-burlingame/' }
-    ]
-  },
-  {
-    avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/TN.jpg',
-    name: 'Tommy Tran',
-    title: 'Developer',
-    links: [
-      { icon: 'linkedin', link: 'https://www.linkedin.com/in/tommy-tran-475492213/' },
-    ]
-  },
-  {
-    avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/NR.jpg',
-    name: 'Natalie Resendes',
-    title: 'Developer',
-    links: [
-      { icon: 'github', link: 'https://github.com/nat992/' },
-    ]
-  },
-  {
-    avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/AS.jpg',
-    name: 'Abdullah Shaheed',
-    title: 'Developer',
-    links: [
-      { icon: 'linkedin', link: 'https://www.linkedin.com/in/ashaheed/' },
-    ]
-  },
-  {
-    avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/SS.jpg',
-    name: 'Sukhdeep Singh',
-    title: 'Developer',
-    links: [
-      { icon: 'github', link: 'https://github.com/SukhdeepSinghToor7' },
-    ]
-  },
-]
+// const members = [
+//   {
+//     avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/GJ.png',
+//     name: 'GJ Burlingame',
+//     title: 'Team Lead',
+//     links: [
+//       { icon: 'linkedin', link: 'https://www.linkedin.com/in/gj-burlingame/' }
+//     ]
+//   },
+//   {
+//     avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/TN.jpg',
+//     name: 'Tommy Tran',
+//     title: 'Developer',
+//     links: [
+//       { icon: 'linkedin', link: 'https://www.linkedin.com/in/tommy-tran-475492213/' },
+//     ]
+//   },
+//   {
+//     avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/NR.jpg',
+//     name: 'Natalie Resendes',
+//     title: 'Developer',
+//     links: [
+//       { icon: 'github', link: 'https://github.com/nat992/' },
+//     ]
+//   },
+//   {
+//     avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/AS.jpg',
+//     name: 'Abdullah Shaheed',
+//     title: 'Developer',
+//     links: [
+//       { icon: 'linkedin', link: 'https://www.linkedin.com/in/ashaheed/' },
+//     ]
+//   },
+//   {
+//     avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/SS.jpg',
+//     name: 'Sukhdeep Singh',
+//     title: 'Developer',
+//     links: [
+//       { icon: 'github', link: 'https://github.com/SukhdeepSinghToor7' },
+//     ]
+//   },
+// ]
+import TeamCard from '../.vitepress/components/TeamCard.vue'
 </script>
 # Our Background
 
@@ -50,124 +51,60 @@ We are a team of five students attending The University of Massachusetts Lowell.
 
 # The Team
 
-<VPTeamMembers size="small" :members />
+<div class="pb-5"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<!-- <head>
-  <component is="style">
-    .team-members {
-      display: flex;
-      justify-content: space-evenly;
-      flex-wrap: wrap;
-      column-gap: 10px;
-      row-gap: 20px;
-    }
-    .team-card {
-      display: flex;
-      flex-direction: column;
-    }
-  </component>
-</head>
-<body>
-<div class="team-members">
-  <div class="team-card">
-    <div class="card-header">
-      <div class="photo-container">
-        <img
-          src="https://lavalamp.com/wp-content/uploads/2016/07/placeholder-1-1.png"
-          height="300"
-          width="300"
-          alt="[Team Member Name] Photo"
-          class="team-photo"
-        />
-      </div>
-      <h3 class="team-name">Jane Doe</h3>
-    </div>
-    <div class="card-body">
-      <p class="team-role">Lead Web Developer</p>
-    </div>
-    <div class="card-footer">
-      <a
-        href="https://example.com/janedoe"
-        target="_blank"
-        class="personal-link"
-        >View Personal Page</a
-      >
-    </div>
-  </div>
-  <div class="team-card">
-    <div class="card-header">
-      <div class="photo-container">
-        <img
-          src="https://lavalamp.com/wp-content/uploads/2016/07/placeholder-1-1.png"
-          height="300"
-          width="300"
-          alt="[Team Member Name] Photo"
-          class="team-photo"
-        />
-      </div>
-      <h3 class="team-name">Jane Doe</h3>
-    </div>
-    <div class="card-body">
-      <p class="team-role">Lead Web Developer</p>
-    </div>
-    <div class="card-footer">
-      <a
-        href="https://example.com/janedoe"
-        target="_blank"
-        class="personal-link"
-        >View Personal Page</a
-      >
-    </div>
-  </div>
-  <div class="team-card">
-    <div class="card-header">
-      <div class="photo-container">
-        <img
-          src="https://lavalamp.com/wp-content/uploads/2016/07/placeholder-1-1.png"
-          height="300"
-          width="300"
-          alt="[Team Member Name] Photo"
-          class="team-photo"
-        />
-      </div>
-      <h3 class="team-name">Jane Doe</h3>
-    </div>
-    <div class="card-body">
-      <p class="team-role">Lead Web Developer</p>
-    </div>
-    <div class="card-footer">
-      <a
-        href="https://example.com/janedoe"
-        target="_blank"
-        class="personal-link"
-        >View Personal Page</a
-      >
-    </div>
-  </div>
-  <div class="team-card">
-    <div class="card-header">
-      <div class="photo-container">
-        <img
-          src="https://lavalamp.com/wp-content/uploads/2016/07/placeholder-1-1.png"
-          height="300"
-          width="300"
-          alt="[Team Member Name] Photo"
-          class="team-photo"
-        />
-      </div>
-      <h3 class="team-name">Jane Doe</h3>
-    </div>
-    <div class="card-body">
-      <p class="team-role">Lead Web Developer</p>
-    </div>
-    <div class="card-footer">
-      <a
-        href="https://example.com/janedoe"
-        target="_blank"
-        class="personal-link"
-        >View Personal Page</a
-      >
-    </div>
-  </div>
+<TeamCard
+  name="GJ Burlingame"
+  title="Team Lead"
+  avatarUrl="https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/GJ.png"
+>
+  <template #social-links>
+    <a href="https://www.linkedin.com/in/gj-burlingame/" target="_blank">LinkedIn</a>
+  </template>
+</TeamCard>
+
+<TeamCard
+  name="Tommy Tran"
+  title="Developer"
+  avatarUrl="https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/TN.jpg"
+>
+  <template #social-links>
+    <a href="https://www.linkedin.com/in/tommy-tran-475492213" target="_blank">LinkedIn</a>
+  </template>
+</TeamCard>
+
+<TeamCard
+  name="Nataalie Resendes"
+  title="Developer"
+  avatarUrl="https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/NR.jpg"
+  class="nataliecard"
+>
+  <template #social-links>
+    <a href="https://github.com/nat992/" target="_blank">GitHub</a>
+  </template>
+</TeamCard>
+
+<TeamCard
+  name="Abdullah Shaheed"
+  title="Developer"
+  avatarUrl="https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/AS.jpg"
+  class="abdulcard"
+>
+  <template #social-links>
+    <a href="https://www.linkedin.com/in/ashaheed/" target="_blank">LinkedIn</a>
+  </template>
+</TeamCard>
+
+<TeamCard
+  name="Sukhdeep Singh"
+  title="Developer"
+  avatarUrl="https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/SS.jpg"
+>
+  <template #social-links>
+    <a href="https://github.com/SukhdeepSinghToor7/" target="_blank">GitHub</a>
+  </template>
+</TeamCard>
+
 </div>
-</body> -->
+<!-- <VPTeamMembers size="small" :members /> -->

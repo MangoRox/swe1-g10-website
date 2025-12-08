@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "SWE Group 10 Project",
+  title: "Math Moles",
   description: "A website for a math mole-whacking game",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -28,13 +28,13 @@ export default defineConfig({
                 { text: "Authors",    link: "/authors"},
               ],
             },
-            {
-            text: "Project Info",
-            items: [
-              { text: "Description", link: "/description" },
-              { text: "Motivation", link: "/motive" }
-            ],
-            }
+            // {
+            // text: "Project Info",
+            // items: [
+            //   { text: "Description", link: "/description" },
+            //   { text: "Motivation", link: "/motive" }
+            // ],
+            // }
           ],
         },
       ],
