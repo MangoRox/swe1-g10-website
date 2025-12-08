@@ -8,10 +8,10 @@ hero:
   image:
     src: https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/molereal.png # use raw github link because it doesn't render on pages with just moleereal.png..
   actions:
-    - theme: brand
+    - theme: alt 
       text: Install Guide
       link: /download
-    - theme: brand
+    - theme: alt 
       text: Download Latest
       link: /download
     - theme: alt

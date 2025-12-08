@@ -8,7 +8,7 @@ title: Download & Install
 
 
 
-<a class="VPButton medium brand" href="Mole-GameZip.zip" download>Download Mole Game (ZIP)</a>
+<a class="VPButton medium alt" href="Mole-GameZip.zip" download>Download Mole Game (ZIP)</a>
 
 
 ---

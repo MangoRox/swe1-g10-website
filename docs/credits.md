@@ -12,7 +12,7 @@ This project was built collaboratively as part of **Software Engineering I F25 â
 ## Tools & Frameworks Used
 
 ### Static Site Engine
-<a class="VPButton medium brand" href="https://vitepress.dev/" target="_blank">VitePress Official Site</a>
+<a class="VPButton medium alt" href="https://vitepress.dev/" target="_blank">VitePress Official Site</a>
 
 ### Diagram Design
 <a class="VPButton medium alt" href="https://www.drawio.com/" target="_blank">Draw.io Website</a>
