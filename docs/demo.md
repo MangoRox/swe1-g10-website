@@ -34,7 +34,7 @@ without going through the full game.
 
 ## How a Round Works
 
-1. Several moles pop up with **different short expressions** on them. For example: _“2x+8=10”_ .
+1. Several moles pop up with **different short expressions** on them. For example: _“2x+8=10”_.
 2. The player must **whack the moles** by etering answer to the equation, before they disappear.
 3. At the end of the round, the game shows:
 
@@ -44,7 +44,7 @@ without going through the full game.
 
 ## Controls
 
-- **Keyboard (optional)** – Enter correct answer to the equations inside the box.
+- **Keyboard** – Enter correct answer to the equations inside the box.
 - **Pause** – Return to the main menu (if supported by the build).
 
 
