@@ -2,7 +2,7 @@
 title: Demo & Prototype
 ---
 
-# Mole Game Demo
+# Math Moles Game Demo
 
 This page explains how the **Mole Game** demo works and what a player will see
 during a typical play session.

@@ -2,13 +2,13 @@
 title: Download & Install
 ---
 
-# Download & Install Mole Game
+# Download & Install Math Moles Game
 
 ## Latest Build {#latest-build}
 
 
 
-<a class="VPButton medium brand" href="Mole-GameZip.zip" download>Download Mole Game (ZIP)</a>
+<a class="VPButton medium brand" href="Mole-GameZip.zip" download>Download Math Moles Game (ZIP)</a>
 
 
 ---
