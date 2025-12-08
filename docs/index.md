@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "Mole Game"
+  name: "Math Moles"
   text: "Learn math through whacking moles!"
   tagline: "Software Engineering I – Group 10 Project"
   image:
