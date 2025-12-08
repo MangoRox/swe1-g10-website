@@ -62,10 +62,4 @@ This demo is not the full game – it is a focused slice meant for feedback and 
 
 ---
 
-## Download the Demo (optional)
-
-- Right now WE HAVE THE FULL GAME ZIP FOLDER HERE TO DOWNLOAD. WE CAN CHANGE IT TO DOWNLOAD SOMETHING ELSE INSTEAD.
-
-<a class="VPButton medium alt" href="MoleGame.zip" download>Download Demo Build (ZIP)</a>
-
 
