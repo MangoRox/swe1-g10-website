@@ -75,7 +75,7 @@ We are a team of five students attending The University of Massachusetts Lowell.
 </TeamCard>
 
 <TeamCard
-  name="Nataalie Resendes"
+  name="Natalie Resendes"
   title="Developer"
   avatarUrl="https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/NR.jpg"
   class="nataliecard"
