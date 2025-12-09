@@ -2,9 +2,9 @@
 title: Demo & Prototype
 ---
 
-# Math Moles Game Demo
+# Math Moles Demo
 
-This page explains how the **Mole Game** demo works and what a player will see
+This page explains how the **Math Moles** demo works and what a player will see
 during a typical play session.
 
 
@@ -61,5 +61,3 @@ The purpose of the demo is to:
 This demo is not the full game – it is a focused slice meant for feedback and presentation.
 
 ---
-
-
