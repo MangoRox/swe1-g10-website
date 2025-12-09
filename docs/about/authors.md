@@ -66,7 +66,7 @@ We are a team of five students attending The University of Massachusetts Lowell.
 
 <TeamCard
   name="Tommy Tran"
-  title="Developer"
+  title="Lead Developer"
   avatarUrl="https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/TN.jpg"
 >
   <template #social-links>
@@ -76,7 +76,7 @@ We are a team of five students attending The University of Massachusetts Lowell.
 
 <TeamCard
   name="Natalie Resendes"
-  title="Developer"
+  title="Engineer & Designer"
   avatarUrl="https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/NR.jpg"
   class="nataliecard"
 >
@@ -87,7 +87,7 @@ We are a team of five students attending The University of Massachusetts Lowell.
 
 <TeamCard
   name="Abdullah Shaheed"
-  title="Developer"
+  title="Lead Web Developer"
   avatarUrl="https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/AS.jpg"
   class="abdulcard"
 >
@@ -98,7 +98,7 @@ We are a team of five students attending The University of Massachusetts Lowell.
 
 <TeamCard
   name="Sukhdeep Singh"
-  title="Developer"
+  title="Engineer and Web Developer"
   avatarUrl="https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/SS.jpg"
 >
   <template #social-links>
