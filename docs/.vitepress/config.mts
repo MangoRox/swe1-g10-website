@@ -41,7 +41,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/GJ-Repo/SWEGroup10" }, // change this later
+      { icon: "github", link: "https://github.com/Jumony/MathMoles" }, // changed link to new repo setup by Tommy
     ],
   },
   base: "/swe1-g10-website/",
