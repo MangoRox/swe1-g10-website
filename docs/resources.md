@@ -1,6 +1,6 @@
 ---
 outline: false
-title: Credits
+title: Resources
 ---
 
 # Project Credits
@@ -18,6 +18,11 @@ This project was built collaboratively as part of **Software Engineering I F25 â
 <a class="VPButton medium alt" href="https://www.drawio.com/" target="_blank">Draw.io Website</a>
 
 ---
+
+## Curriculum Followed
+
+### 2017 Curriculum Framework for Mathematics Detailed Revisions of 2010 Standards for PK-12.
+<a class="VPButton medium alt" href="https://www.doe.mass.edu/frameworks/math/2017-06revisions.pdf" target="_blank">Official Document from Mass D.O.E.</a>
 
 ## Acknowledgements
 

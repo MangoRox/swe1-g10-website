@@ -13,7 +13,7 @@ export default defineConfig({
       { text: "Demo", link: "/demo" },
       { text: "Documents & Diagrams" , link: "/documents" },
       { text: "About", link: "/about/authors" },
-      { text: "Credits", link: "/credits" },
+      { text: "Resources", link: "/resources" },
       { text: "Slides", link: "MathMolesPresentation.pdf" },
     ],
 
