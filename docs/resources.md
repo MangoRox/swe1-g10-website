@@ -33,7 +33,7 @@ This project was built collaboratively as part of **Software Engineering I F25 â
 8. Correct answer sound: https://pixabay.com/sound-effects/correct-choice-43861/ 
 9. General UI sound: https://pixabay.com/sound-effects/button-09-190435/
 
-## Curriculum Followed
+## Curriculum Researched
 
 ### 2017 Curriculum Framework for Mathematics Detailed Revisions of 2010 Standards for PK-12.
 <a class="VPButton medium alt" href="https://www.doe.mass.edu/frameworks/math/2017-06revisions.pdf" target="_blank">Official Document from Mass D.O.E.</a>
