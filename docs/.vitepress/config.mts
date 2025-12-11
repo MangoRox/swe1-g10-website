@@ -18,29 +18,29 @@ export default defineConfig({
       { text: "Slides", link: "MathMolesPresentation.pdf" },
     ],
 
-    sidebar: {
-      "/about/": [
-        {
-          text: "",
-          base: "/about/",
-          items: [
-            {
-              text: "About Us",
-              items: [
-                { text: "Authors",    link: "/authors"},
-              ],
-            },
-            // {
-            // text: "Project Info",
-            // items: [
-            //   { text: "Description", link: "/description" },
-            //   { text: "Motivation", link: "/motive" }
-            // ],
-            // }
-          ],
-        },
-      ],
-    },
+    // sidebar: {
+    //   "/about/": [
+    //     {
+    //       text: "",
+    //       base: "/about/",
+    //       items: [
+    //         {
+    //           text: "About Us",
+    //           items: [
+    //             { text: "Authors",    link: "/authors"},
+    //           ],
+    //         },
+    //         // {
+    //         // text: "Project Info",
+    //         // items: [
+    //         //   { text: "Description", link: "/description" },
+    //         //   { text: "Motivation", link: "/motive" }
+    //         // ],
+    //         // }
+    //       ],
+    //     },
+    //   ],
+    // },
 
     socialLinks: [
       { icon: "github", link: "https://github.com/Jumony/MathMoles" }, // changed link to new repo setup by Tommy
