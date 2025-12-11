@@ -1,5 +1,5 @@
 ---
-title: Demo & Prototype
+title: Demo
 ---
 
 # Math Moles Demo

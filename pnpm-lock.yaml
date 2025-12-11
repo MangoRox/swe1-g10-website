@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      '@miletorix/vitepress-gallery':
+        specifier: ^0.0.7
+        version: 0.0.7(vue@3.5.25)
       '@tailwindcss/postcss':
         specifier: ^4.1.17
         version: 4.1.17
@@ -234,6 +237,11 @@ packages:
 
   '@jridgewell/trace-mapping@0.3.31':
     resolution: {integrity: sha512-zzNR+SdQSDJzc8joaeP8QQoCQr8NuYx2dIIytl1QeBEZHJ9uW6hebsrYgbz8hJwUQao3TWCMtmfV8Nu1twOLAw==}
+
+  '@miletorix/vitepress-gallery@0.0.7':
+    resolution: {integrity: sha512-ClWpn122tWnFuHhGVmDVrIsmxRZ0k7gdkIP1D2YJYjU7cYtFdzDMswzBWfWYZcrjmIVZ2VsZ109+HBxXhsOhLA==}
+    peerDependencies:
+      vue: ^3.0.0
 
   '@rolldown/pluginutils@1.0.0-beta.29':
     resolution: {integrity: sha512-NIJgOsMjbxAXvoGq/X0gD7VPMQ8j9g0BiDaNjVNVjvl+iKXxL3Jre0v31RmBYeLEmkbj2s02v8vFTbUXi5XS2Q==}
@@ -1117,6 +1125,10 @@ snapshots:
     dependencies:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.5
+
+  '@miletorix/vitepress-gallery@0.0.7(vue@3.5.25)':
+    dependencies:
+      vue: 3.5.25
 
   '@rolldown/pluginutils@1.0.0-beta.29': {}
 

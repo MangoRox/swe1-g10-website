@@ -1,48 +1,4 @@
 <script setup>
-// import { VPTeamMembers } from 'vitepress/theme'
-
-// const members = [
-//   {
-//     avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/GJ.png',
-//     name: 'GJ Burlingame',
-//     title: 'Team Lead',
-//     links: [
-//       { icon: 'linkedin', link: 'https://www.linkedin.com/in/gj-burlingame/' }
-//     ]
-//   },
-//   {
-//     avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/TN.jpg',
-//     name: 'Tommy Tran',
-//     title: 'Developer',
-//     links: [
-//       { icon: 'linkedin', link: 'https://www.linkedin.com/in/tommy-tran-475492213/' },
-//     ]
-//   },
-//   {
-//     avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/NR.jpg',
-//     name: 'Natalie Resendes',
-//     title: 'Developer',
-//     links: [
-//       { icon: 'github', link: 'https://github.com/nat992/' },
-//     ]
-//   },
-//   {
-//     avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/AS.jpg',
-//     name: 'Abdullah Shaheed',
-//     title: 'Developer',
-//     links: [
-//       { icon: 'linkedin', link: 'https://www.linkedin.com/in/ashaheed/' },
-//     ]
-//   },
-//   {
-//     avatar: 'https://raw.githubusercontent.com/MangoRox/swe1-g10-website/refs/heads/main/docs/img/SS.jpg',
-//     name: 'Sukhdeep Singh',
-//     title: 'Developer',
-//     links: [
-//       { icon: 'github', link: 'https://github.com/SukhdeepSinghToor7' },
-//     ]
-//   },
-// ]
 import TeamCard from '../.vitepress/components/TeamCard.vue'
 </script>
 # Our Background

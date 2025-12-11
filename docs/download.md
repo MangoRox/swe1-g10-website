@@ -1,5 +1,5 @@
 ---
-title: Download & Install
+title: Download
 ---
 
 # Download & Install Math Moles

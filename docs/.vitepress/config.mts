@@ -11,6 +11,7 @@ export default defineConfig({
       { text: "Download", link: "/download" },
       { text: "Build", link: "/build" },
       { text: "Demo", link: "/demo" },
+      { text: "Screenshots", link: "/screenshots" },
       { text: "Documents & Diagrams" , link: "/documents" },
       { text: "About", link: "/about/authors" },
       { text: "Resources", link: "/resources" },
