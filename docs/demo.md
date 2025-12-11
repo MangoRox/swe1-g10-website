@@ -39,7 +39,7 @@ without going through the full game.
 3. At the end of the round, the game shows:
 
    - The player’s score for that round
-   - Streak acheived
+   
 ---
 
 ## Controls
