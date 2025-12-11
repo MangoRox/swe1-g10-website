@@ -4,8 +4,7 @@ title: Demo
 
 # Math Moles Demo
 
-This page explains how the **Math Moles** demo works and what a player will see
-during a typical play session.
+This page gives a demo on how **Math Moles** works and what a player will see during a typical play session.
 
 
 
@@ -22,9 +21,9 @@ during a typical play session.
 
 The demo is a small, self-contained slice of the full game. It highlights:
 
-- **Core gameplay loop** – moles pop up and you whack the correct ones.
-- **Math focus** – each mole asks the player to solve a simple math equation.
-- **Difficulty ramp** – moles appear faster and as you build streak.
+- **Core gameplay loop** – Moles pop up and you whack the correct ones.
+- **Math focus** – Each mole asks the player to solve a simple math equation.
+- **Difficulty ramp** – Moles appear faster and as you build streak.
 - **Leaderboard** - Your name appears on the leaderboard based on your score.
 
 You can use this demo to quickly show the concept to instructors, testers, or classmates
@@ -35,10 +34,11 @@ without going through the full game.
 ## How a Round Works
 
 1. Several moles pop up with **different short expressions** on them. For example: _“2x+8=10”_.
-2. The player must **whack the moles** by etering answer to the equation, before they disappear.
+2. The player must **whack the moles** by entering the correct answer to the equation before they disappear.
 3. At the end of the round, the game shows:
 
    - The player’s score for that round
+   - A button to return to the main menu
    
 ---
 
